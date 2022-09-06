@@ -1,4 +1,4 @@
 [submodule "libyuv/src/main/cpp"]
 	path = libyuv/src/main/cpp
-	url = https://chromium.googlesource.com/libyuv/libyuv
+	url = https://github.com/jiluoxingren/libyuv.git
 	branch = stable
