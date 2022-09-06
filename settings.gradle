@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "libyuv"
-include ':app'
+include ':libyuv'
